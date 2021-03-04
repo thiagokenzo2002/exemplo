@@ -1,0 +1,2 @@
+<!-- DTD = Document Type Definitio -->
+<!Doctype html>
